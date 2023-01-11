@@ -1,6 +1,6 @@
 # Game Settings
 
-settings for different games. 
+Settings for different games. 
 Games on the list:
 
 * Overwatch 2
