@@ -1,6 +1,5 @@
 # Game settings
 \
-\
 ## Overwatch 2:
 Sens          : 3.65
 Ashe sens     : 61.12
