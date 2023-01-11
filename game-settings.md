@@ -29,7 +29,7 @@ Scope         : 0.0
 Sens          : 5-5
 Scopes        : 41 - 43 - 48 - 48 - 50 - 20 - 43
 ### Graphics:
-Texture quality: low
+Texture quality: low<br>
 Texture filtering: x1
 LOD quality: low
 Shading quality: low
