@@ -61,8 +61,8 @@ Effects       : medium<br>
 Terrain       : high<br>
 
 ### to paste in /Documents/StarCraft II/variable.txt
-lighting=0
-GraphicsOptionModelQuality=1
-lowqualitymodels=0
-uselowqualitymodel=0
-useLowqualitymodels=0
+lighting=0<br>
+GraphicsOptionModelQuality=1<br>
+lowqualitymodels=0<br>
+uselowqualitymodel=0<br>
+useLowqualitymodels=0<br>
