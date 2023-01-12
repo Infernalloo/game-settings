@@ -6,7 +6,12 @@
 Sens          : 3.65<br>
 Ashe sens     : 61.12<br>
 WM / Ana sens : 45<br>
-
+### Graphics  :
+Graphics qual : low<br>
+Upsampling    : amd fsr 1.0 >> 0.25
+Shadow detail : medium
+Model detail  : medium
+Damage fx     : low
 
 ## Apex legends:
 Sens          : 0.9<br>
@@ -28,7 +33,7 @@ Scope         : 0.0<br>
 ## Rainbow 6:
 Sens          : 5-5<br>
 Scopes        : 41 - 43 - 48 - 48 - 50 - 20 - 43<br>
-### Graphics:
+### Graphics  :
 Texture quality: low<br>
 Texture filtering: x1<br>
 LOD quality: low<br>
