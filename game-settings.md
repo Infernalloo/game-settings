@@ -51,3 +51,18 @@ T-AA sharpenes: 70<br>
 ## Fortnite:
 Sens          : 4.8<br>
 Scope         : 60%<br>
+
+## Star Craft II:
+Graphics qual : low<br>
+Shaders       : medium<br>
+Textures      : medium<br>
+Models        : high<br>
+Effects       : medium<br>
+Terrain       : high<br>
+
+### to paste in /Documents/StarCraft II/variable.txt
+lighting=0
+GraphicsOptionModelQuality=1
+lowqualitymodels=0
+uselowqualitymodel=0
+useLowqualitymodels=0

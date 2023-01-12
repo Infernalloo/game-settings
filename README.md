@@ -8,5 +8,6 @@ Games on the list:
 * Valorant
 * CS:GO
 * Paladins
-* Fortnite
 * Rainbow 6
+* Fortnite
+* Star Craft II
